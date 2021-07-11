@@ -1,10 +1,9 @@
 # Solid Principles
-### Distilled wisdom of generations of software developers.
 
-   <h2 align="center">
-	S . O . L . I . D
-   </h2>
-    
+## Distilled wisdom of generations of software developers.
+
+<h3 align="center">S . O . L . I . D</h3>
+
 - [x] Single Responsibility Principle.
 - [x] Open Closed Principle.
 - [x] Liskov Substitution Principle.
